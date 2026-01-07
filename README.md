@@ -1,6 +1,6 @@
 # Hey, I’m Joey Zhu 👋
 
-I’m a full-stack developer focused on building **SaaS products**, and **web applications** .  
+I enjoy building full-stack projects for fun — experimenting with web apps, SaaS ideas, and tools that make everyday workflows easier.
 ---
 
 ## 🛠️ Tech Stack
@@ -13,8 +13,6 @@ I’m a full-stack developer focused on building **SaaS products**, and **web ap
 ![CSS](https://skillicons.dev/icons?i=css)
 ![C++](https://skillicons.dev/icons?i=cpp)
 
----
-
 ### 🌐 Frontend
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -22,13 +20,9 @@ I’m a full-stack developer focused on building **SaaS products**, and **web ap
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
----
-
 ### 🧩 Backend & Databases
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
----
 
 ### ⚙️ Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
